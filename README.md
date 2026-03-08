@@ -2,7 +2,7 @@
 
 **One in the Chamber** is back! Feature-rich and reborn minigame plugin for Paper/Spigot 1.21+
 
-> 🔒 This repository contains documentation only. The plugin jar is available on [BuiltByBit](#), [Spigot](#), [Polymarket](#), [Modrinth](#).
+> This repository contains documentation only. The plugin jar is available on... nowhere yet :(.
 
 ---
 
