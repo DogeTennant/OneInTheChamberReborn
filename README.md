@@ -2,7 +2,7 @@
 
 **One in the Chamber** is back! Feature-rich and reborn minigame plugin for Paper/Spigot 1.21+
 
-> This repository contains documentation only. The plugin jar is available on... [BuiltByBit](https://builtbybit.com/resources/one-in-the-chamber-reborn.97587/)
+> This repository contains documentation only. The plugin jar is available on [BuiltByBit](https://builtbybit.com/resources/one-in-the-chamber-reborn.97587/) and [Polymart](https://polymart.org/product/9469/oneinthechamber-reborn)
 
 ---
 
