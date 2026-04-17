@@ -20,7 +20,8 @@
 - **Particle boundary visualizer** - see your region borders in-game
 - **Interactive admin UI** - clickable chat buttons for teleportation, region management, and arena info
 - **Kill feed broadcasts** - server-wide win announcements with per-player opt-out
-- **Scoreboard** - live in-game scoreboard showing kills and time remaining
+- **Scoreboard** - fully configurable live scoreboards (in-game and lobby, with MiniMessage support)
+- **Global Lobby** - optional global lobby for post-game returns
 - **Multi-language** - English and Czech included, fully customizable message files
 - **Console-compatible** - most admin commands work from the server console
 
